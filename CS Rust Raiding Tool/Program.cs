@@ -8,6 +8,7 @@ using System.Linq;
 
 class InterceptKeys {
     // Constants used in the program
+    //yes
     private const int WH_KEYBOARD_LL = 13;
     private const int WM_KEYDOWN = 0x0100;
 
